@@ -1,0 +1,11 @@
+Unsecured Connection
+Missing Content-Security-Policy
+Missing X-Frame-Options
+Missing X-Content-Type-Options
+Open Redirect
+Denial Of Service(DoS)
+Directory Listing Enabled
+SQL Injection
+Cross-Site Scripting (XSS)
+Missing Secure Cookies
+Vulnerable Server Software
